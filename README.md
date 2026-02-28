@@ -191,5 +191,6 @@ npm run dev
 ---
 
 ## Team
+A2K 
+Hackathon Overclock 2026
 
-> [Your team name here] | Hackathon 2025
